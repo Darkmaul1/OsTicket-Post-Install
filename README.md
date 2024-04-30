@@ -1,6 +1,6 @@
 # VPN Set-up and Usage
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<<blockquote class="imgur-embed-pub" lang="en" data-id="a/zUMRFuc" data-context="false" ><a href="//imgur.com/a/zUMRFuc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
 </p>
 
 <h1>vpn set-up and usage - </h1>
